@@ -8,3 +8,8 @@ Sample Project used in a talk for Google Developers Group Tijuana:
 Video of the talk:
 
 http://youtu.be/dNXtu06lQVY
+
+LICENSE
+========
+
+MIT-LICENSE
